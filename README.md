@@ -2,7 +2,7 @@
 
 Made a super mario type website as i feel normal websites are boring. You can search any city, explore tourist places, read details and build a "Quest Log" itinerary that survives a page refresh. TOOK HELP FROM AI BUT IT HAS MY EFFORTS TOO LOL
 
-**Live demo:** <your-deployment-link> | **Track:** Frontend
+**Live demo:** https://tripwisemario.netlify.app/ | **Track:** Frontend
 
 ## Features
 - Destination discovery from the Geoapify Places API (card grid, responsive)
